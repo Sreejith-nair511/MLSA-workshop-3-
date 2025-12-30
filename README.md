@@ -1,4 +1,9 @@
-# Machine Learning Examples (Beginner Level)
+#RESOURCES 
+
+
+<h2>PART A</h2> 
+ 
+ Machine Learning Examples (Beginner Level)
 
 These examples are intentionally simple.
 
@@ -28,3 +33,7 @@ StatQuest (YouTube) – Concept clarity
 | Research | Google Scholar | Academic paper search engine | https://scholar.google.com |
 | Research | Papers With Code | Research papers with linked implementations | https://paperswithcode.com |
 | Research | arXiv (cs.AI, cs.LG) | Open-access ML and AI research papers | https://arxiv.org |
+
+
+<H2>PART B</H2>
+
