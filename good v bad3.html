@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Style Example</title>
+
+    <!-- BAD STYLE -->
+    <style>
+        p { color: red; font-size: 10px; }
+    </style>
+</head>
+<body>
+
+<!-- BAD CODE -->
+<p style="color:blue;font-size:40px">Hello World</p>
+
+<!--
+Problems:
+- Inline styling
+- No reuse
+- Inconsistent styles
+-->
+
+<hr>
+
+<!-- GOOD CODE -->
+<style>
+    .message {
+        color: blue;
+        font-size: 18px;
+        font-family: Arial, sans-serif;
+    }
+</style>
+
+<p class="message">Hello World</p>
+
+<!--
+Why this is good:
+- Reusable CSS
+- Clean separation
+- Consistent styling
+-->
+
+</body>
+</html>
