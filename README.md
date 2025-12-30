@@ -52,6 +52,7 @@ StatQuest (YouTube) – Concept clarity
 | Code Quality | Google Style Guides | Professional coding standards | https://google.github.io/styleguide |
 
 <h2>part c </h2>
+
 | Category | Resource Name | Purpose | Link |
 |---------|---------------|---------|------|
 | Search Engine | Google Scholar | Find academic papers, theses, and citations | https://scholar.google.com |
