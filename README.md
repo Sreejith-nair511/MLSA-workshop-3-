@@ -37,3 +37,18 @@ StatQuest (YouTube) – Concept clarity
 
 <H2>PART B</H2>
 
+<H3>GOOD CODING PRACTICE RESOURCES</H3>
+
+| Category | Resource | Description | Link |
+|--------|---------|-------------|------|
+| C Language | C Programming – GeeksforGeeks | Clear explanations with examples | https://www.geeksforgeeks.org/c-programming-language |
+| C Language | C Programming Tutorial – TutorialsPoint | Beginner-friendly C concepts | https://www.tutorialspoint.com/cprogramming |
+| C Language | The C Programming Language (K&R) | Foundational book for C | https://en.wikipedia.org/wiki/The_C_Programming_Language |
+| Coding Style | Clean Code – Robert C. Martin | Industry-standard coding principles | https://www.oreilly.com/library/view/clean-code/9780136083238 |
+| Web Basics | MDN Web Docs – HTML | Official HTML documentation | https://developer.mozilla.org/en-US/docs/Web/HTML |
+| Web Basics | MDN Web Docs – JavaScript | Industry-standard JS reference | https://developer.mozilla.org/en-US/docs/Web/JavaScript |
+| Web Basics | CSS Tricks | Practical CSS guides and patterns | https://css-tricks.com |
+| Web Practice | JavaScript.info | Deep JS concepts explained simply | https://javascript.info |
+| Code Quality | Google Style Guides | Professional coding standards | https://google.github.io/styleguide |
+
+
