@@ -51,4 +51,23 @@ StatQuest (YouTube) – Concept clarity
 | Web Practice | JavaScript.info | Deep JS concepts explained simply | https://javascript.info |
 | Code Quality | Google Style Guides | Professional coding standards | https://google.github.io/styleguide |
 
+<h2>part c </h2>
+| Category | Resource Name | Purpose | Link |
+|---------|---------------|---------|------|
+| Search Engine | Google Scholar | Find academic papers, theses, and citations | https://scholar.google.com |
+| Preprint Archive | arXiv (cs.AI, cs.LG, cs.CV) | Access latest research papers before journal publication | https://arxiv.org |
+| Research Hub | Papers With Code | View research papers with code implementations | https://paperswithcode.com |
+| Digital Library | IEEE Xplore | Peer-reviewed journals and conference papers | https://ieeexplore.ieee.org |
+| Digital Library | ACM Digital Library | Computer science research papers and surveys | https://dl.acm.org |
+| Beginner Guide | How to Read a Paper – S. Keshav | Step-by-step guide to reading research papers | https://www.cs.princeton.edu/~ckwok/cos597E/readpaper.pdf |
+| Beginner Guide | Research Paper Structure (Elsevier) | Understand sections of a research paper | https://www.elsevier.com/connect/structure-of-a-research-paper |
+| Writing Guide | IEEE Paper Format Guide | Learn IEEE research paper formatting | https://www.ieee.org/conferences/publishing/templates.html |
+| Writing Guide | Overleaf IEEE Templates | Ready-to-use IEEE paper templates | https://www.overleaf.com/gallery/tagged/ieee-official |
+| Reference Tool | Zotero | Manage references and citations | https://www.zotero.org |
+| Reference Tool | Mendeley | Reference manager and PDF organizer | https://www.mendeley.com |
+| Survey Papers | Survey Papers on arXiv | Learn a topic quickly through surveys | https://arxiv.org |
+| Plagiarism | Grammarly Plagiarism Checker | Check originality of research writing | https://www.grammarly.com/plagiarism-checker |
+| Ethics | COPE Publication Ethics | Understand research ethics and misconduct | https://publicationethics.org |
+
+
 
