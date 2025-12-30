@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Form Example</title>
+</head>
+<body>
+
+<!-- BAD CODE -->
+<form>
+    <input type="text" id="n">
+    <button onclick="alert(document.getElementById('n').value)">
+        Submit
+    </button>
+</form>
+
+<!--
+Problems:
+- Inline JavaScript
+- No validation
+- Bad UX
+-->
+
+<hr>
+
+<!-- GOOD CODE -->
+<form id="userForm">
+    <label>Name:</label>
+    <input type="text" id="name">
+    <button type="submit">Submit</button>
+</form>
+
+<script>
+    document.getElementById("userForm").addEventListener("submit", function (e) {
+        e.preventDefault();
+        const name = document.getElementById("name").value.trim();
+
+        if (name === "") {
+            alert("Name cannot be empty");
+            return;
+        }
+
+        alert("Hello " + name);
+    });
+</script>
+
+</body>
+</html>
