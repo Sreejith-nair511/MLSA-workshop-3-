@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Good vs Bad Web Code</title>
+
+    <!-- BAD PRACTICE -->
+    <script>
+        function clickMe(){
+            alert("Hello");
+        }
+    </script>
+</head>
+
+<body>
+
+<!-- BAD CODE -->
+<button onclick="clickMe()">Click</button>
+
+<!--
+Problems:
+- Inline JavaScript
+- Poor separation of concerns
+- Not scalable
+-->
+
+<hr>
+
+<!-- GOOD CODE -->
+<button id="goodBtn">Click Me</button>
+
+<script>
+    /*
+    GOOD PRACTICE
+    - JavaScript separated from HTML logic
+    - Event listeners used
+    - Clean and maintainable
+    */
+
+    const button = document.getElementById("goodBtn");
+
+    button.addEventListener("click", function () {
+        alert("Hello");
+    });
+</script>
+
+</body>
+</html>
+ 
